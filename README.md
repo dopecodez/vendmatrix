@@ -1,6 +1,6 @@
-# vendMatrix
+# VENDMATRIX
 
-A simple static landing page for a fictional company named vendMatrix.
+A simple static landing page for a company named VENDMATRIX.
 
 ## Included
 - A modern one-page site with an About section and contact email
